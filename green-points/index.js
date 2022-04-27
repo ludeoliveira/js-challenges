@@ -73,3 +73,4 @@ function updatePoints(action) {
 }
 
 renderBtns()
+
