@@ -7,10 +7,4 @@ task:
 • Add validation to check that the name and email fields are filled in and display a warning message if not.
 • Hide the form and show a thank you message on submit. 
 
-<picture>
-  <img alt="Shows a form with the email field highlighted due to an invalid email format being entered" src="imgs/1.png">
-  <img alt="Shows a form with the name field highlighted due to a name not being entered" src="imgs/2.png">
-</picture>
-
-![This is an image](imgs/1.png)
-
+![Shows a form with the email field highlighted due to an invalid email format being entered](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/1.png?raw=true)
