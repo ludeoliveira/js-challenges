@@ -10,5 +10,5 @@ Task:
 
 ![Shows a form with the email field highlighted due to an invalid email format being entered](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/1.png?raw=true)
 ![Shows a form with the name field highlighted due to the name not being entered](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/2.png?raw=true)
-![Shows a form with the name and email entered correctly](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/2.png?raw=true)
-![Shows thank you message when the name and email were entered correctly](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/2.png?raw=true)
+![Shows a form with the name and email entered correctly](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/3.png?raw=true)
+![Shows thank you message when the name and email were entered correctly](https://github.com/ludeoliveira/js-challenges/blob/main/imgs/4.png?raw=true)
